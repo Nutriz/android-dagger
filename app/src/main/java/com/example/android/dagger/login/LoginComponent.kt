@@ -13,5 +13,4 @@ interface LoginComponent {
     }
 
     fun inject(activity: LoginActivity)
-
 }
